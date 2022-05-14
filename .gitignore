@@ -1,0 +1,20 @@
+/dataset_training
+/pranav_raut
+/images
+/temp
+/bin/*.weights
+/.ipynb_checkpoints
+/.vscode
+/lib
+
+a.ipynb
+draw_boxes.py
+fetch.py
+face_rec.ipynb
+flow
+generate_xml.py
+pt2.ipynb
+reconiz copy.ipynb
+
+*.avi
+*.mp4
